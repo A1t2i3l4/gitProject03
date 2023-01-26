@@ -8,5 +8,6 @@ public class Ogrenci {
         System.out.println("Ekrana yazi yazdiriyorum");
 
         System.out.println("Yeni bir sey ekledim...3.commit");
+        System.out.println("Commit 4 yaptim simdi");
     }
 }
